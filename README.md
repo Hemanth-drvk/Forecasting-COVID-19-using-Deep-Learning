@@ -27,3 +27,4 @@ best models were able to predict the Daily case counts of the test set with a me
 of 90.5% over all days with the lowest accuracy of 91.4% on the first day predict. Models
 forecasting the 7-day rolling average case counts had a mean accuracy of 92.5%, and 94.3% 
 on first day (D+1) on the same test set.
+![Project Screenshot](Daily_case_count_vs_7-day_average_cases.png)
